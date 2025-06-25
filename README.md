@@ -135,8 +135,7 @@ Click Add New Teams, name it Online Banking, then create it.
 
 <h3 align="center"> Allow Anyone to Create Tickets  </h3>
 <p align="center">
-In order to allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) (To check and make sure)
-Registration Required: Require registration and login to create tickets
+In order to allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings (Uncheck this box: Require registration and login to create tickets)
 
 </p>
 <p>
