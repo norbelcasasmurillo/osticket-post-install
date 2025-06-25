@@ -35,7 +35,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p align="center">
 
-  Login using: 
+  Log in using: 
 - **Username:** adminuser
 - **Password:** Password1
 - **Admin/Analyst Login Page:** http://localhost/osTicket/scp/login.php 
