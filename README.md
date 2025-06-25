@@ -45,7 +45,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 <br />
 
 <p align="center">
-Have this ready when you need it. End Users osTicket URL: http://localhost/osTicket 
+  
+Have this ready when you need it. 
+- **End Users osTicket URL:** http://localhost/osTicket 
 
 </p>
 <p>
