@@ -6,9 +6,9 @@
 This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Prerequisites</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- [osTicket: Prerequisites and Installation](https://github.com/norbelcasasmurillo/osticket-prereqs)
 
 <h2>Environments and Technologies Used</h2>
 
