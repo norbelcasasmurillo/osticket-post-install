@@ -56,6 +56,7 @@ Have this ready when you need it.
 </p>
 <br />
 
+<h3 align="center"> Configure Roles </h3>
 <p align="center">
 In order to configure roles (for grouping permissions), go to Admin Panel -> Agents -> Roles (Then click Add New Role). Type "Supreme Admin".
 
@@ -76,6 +77,7 @@ Then click on Permissions, then check everything. (In Tickets, Tasks, and Knowle
 </p>
 <br />
 
+<h3 align="center"> Configure Departments </h3>
 <p align="center">
 To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking), go to Admin Panel -> Agents -> Departments (Then click Add New Department, and type SysAdmins)
 
@@ -107,6 +109,7 @@ Choose the Top Level Department for parent and name it SysAdmin, then click Crea
 </p>
 <br />
 
+<h3 align="center"> Configure Teams </h3>
 <p align="center">
 In order to configure Teams, go to Admin Panel -> Agents -> Teams (Pull Agents from different Departments).
 
@@ -130,6 +133,7 @@ Click Add New Teams, name it Online Banking, then create it.
 </p>
 <br />
 
+<h3 align="center"> Allow Anyone to Create Tickets  </h3>
 <p align="center">
 In order to allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings (UNCHECK: unregistered users can create tickets) (To check and make sure)
 Registration Required: Require registration and login to create tickets
@@ -142,6 +146,7 @@ Registration Required: Require registration and login to create tickets
 </p>
 <br />
 
+<h3 align="center"> Configure Agents </h3>
 <p align="center">
 In order to configure Agents (workers), go to Admin Panel -> Agents -> Add New.
 
@@ -205,6 +210,7 @@ Set both of their passwords by updating it. (You need to click on each agent bef
 </p>
 <br />
 
+<h3 align="center"> Configure Users (customers) </h3>
 <p align="center">
 Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add New.
 
@@ -217,6 +223,7 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 <br />
 
 <p align="center">
+
 - **Name:** Karen
 - **Email:** karen@lognpacfic.com
 
@@ -229,6 +236,7 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 <br />
 
 <p align="center">
+
 - **Name:** Ken
 - **Email:** ken@lognpacific.com
 
@@ -239,6 +247,7 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 </p>
 <br />
 
+<h3 align="center"> Configure Service Level Agreement (SLA) </h3>
 <p align="center">
 In order to configure SLA, go to Admin Panel -> Manage -> SLA.
 
@@ -282,6 +291,7 @@ Then also add this one too. Sev-C (Grace Period: 8 hours, Business Hours).
 </p>
 <br />
 
+<h3 align="center"> Configure Help Topics </h3>
 <p align="center">
 Next, in order to configure Help Topics (For when users create a ticket), go to Admin Panel -> Manage -> Help Topics (Then click Add New Help Topics).
 
