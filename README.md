@@ -55,7 +55,7 @@ Have this ready when you need it.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/154aadb7-eca7-43a8-a396-8ab1400300ed)
+![image](https://github.com/user-attachments/assets/4d165377-b32e-4e75-81ca-793b6ab74bd3)
 </p>
 <br />
 
