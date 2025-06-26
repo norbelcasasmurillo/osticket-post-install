@@ -209,7 +209,7 @@ Also, to add a new agent name. Go back to Admin Panel -> Agents -> Add New Agent
 - **Username:** john
 - **Primary department:** Support and View Only
 - **Team:** Select none
-Then click the "Create" button. 
+- Then click the "Create" button. 
 </p>
 <p>
 
