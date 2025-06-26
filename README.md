@@ -100,7 +100,7 @@ To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networki
 - **Type:** Private (Internal) [see the question mark bubble for the reasoning, which makes sense for SysAdmins]
 - **Schedule:** Monday - Friday 8am - 5pm with US Holidays
 
-Leave all the other setitng options alone, and then click Create Dept at the bottom of the page.
+Leave all the other setting options alone, and then click Create Dept at the bottom of the page.
 
 </p>
 <p>
