@@ -122,12 +122,12 @@ Leave all the other setitng options alone, and then click Create Dept at the bot
 
 <h3 align="center"> Configure Teams </h3>
 <p align="center">
-In order to configure Teams, go to Admin Panel -> Agents -> Teams (Pull Agents from different Departments).
+In order to configure Teams, go to Admin Panel (you are already there) -> Agents -> Teams 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/c312d7fb-514b-4c05-a278-a1673be9c109)
+![image](https://github.com/user-attachments/assets/688d5c03-5dd6-40aa-bb6f-e8ea49b35cea)
 
 
 </p>
