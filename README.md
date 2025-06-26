@@ -219,13 +219,27 @@ Also, to add a new agent name. Go back to Admin Panel -> Agents -> Add New Agent
 <br />
 
 <p align="center">
-Go back to the agents panel. Click on Agent Jane to setup her password. 
+Go back to the agents panel. Click on Agent Jane to setup her password. Then click on "Setpassword". 
   In order to set both of their passwords, you need to click on each agent (Jane then John) before updating password. (They don’t change their password when they login too.)
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/8dd385da-8d07-4068-8a17-0a74937a6a77)
+![image](https://github.com/user-attachments/assets/0dd487bd-7fc7-4b88-8080-fa0128ae90e0)
+![image](https://github.com/user-attachments/assets/ab660dc0-dd61-47af-abe1-1d4a597bd5b8)
+
+</p>
+<br />
+
+<p align="center">
+
+Uncheck the "Send the agent a password reset email" box. Then for the password put **Password1**. Also, uncheck the "Require password change at next login" box. Then click update. Do this process for Agent John as well. 
+
+</p>
+<p>
+
+![image](https://github.com/user-attachments/assets/e395be99-98cd-4db4-97ff-37e45ac00ea1)
+
 
 </p>
 <br />
@@ -237,7 +251,8 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/e9bfdf7e-1623-44c6-88cf-ecf1655fd8ad)
+![image](https://github.com/user-attachments/assets/1e2033b8-9e70-4c7f-9441-2e0ec8ef8c66)
+![image](https://github.com/user-attachments/assets/f7806475-f6a4-4062-bf68-684b6f261d15)
 
 </p>
 <br />
