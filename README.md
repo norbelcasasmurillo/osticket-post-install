@@ -110,16 +110,6 @@ Leave all the other setitng options alone, and then click Create Dept at the bot
 </p>
 <br />
 
-<p align="center">
-(Note: can make additional steps for the lab report for the course), then click "Add New Department". 
-
-</p>
-<p>
-
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<br />
-
 <h3 align="center"> Configure Teams </h3>
 <p align="center">
 In order to configure Teams, go to Admin Panel (you are already there) -> Agents -> Teams 
