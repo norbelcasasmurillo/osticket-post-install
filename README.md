@@ -97,7 +97,6 @@ To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networki
 
 - **Parent:** Top Level Department
 - **Name:** SysAdmins 
-- **Type:** Private (Internal) [see the question mark bubble for the reasoning, which makes sense for SysAdmins since they don't have direct commuication with the End User usually.]
 - **Schedule:** Monday - Friday 8am - 5pm with US Holidays
 
 Leave all the other setting options alone, and then click Create Dept at the bottom of the page.
@@ -105,66 +104,69 @@ Leave all the other setting options alone, and then click Create Dept at the bot
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/bea0d3cf-264d-4e36-9cb9-79f7f03e9202)
+![image](https://github.com/user-attachments/assets/4ce71a8e-6eb8-4149-84c3-7ef0f33d4101)
 
 </p>
 <br />
 
 <h3 align="center"> Configure Teams </h3>
 <p align="center">
-In order to configure Teams, go to Admin Panel (you are already there) -> Agents -> Teams 
+In order to configure Teams, go to Admin Panel (you are already there) -> Agents -> Teams. Then click Add New Teams.
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/688d5c03-5dd6-40aa-bb6f-e8ea49b35cea)
+![image](https://github.com/user-attachments/assets/bab7d030-d71f-4339-8d54-81ddb3d4fe62)
 
 
 </p>
 <br />
 
 <p align="center">
-Click Add New Teams, name it Online Banking, then create it.
+Name the new team "Online Banking", then click "Create Team" at the bottom. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/b7fcb73b-bc03-4ed9-b53f-dedeeb23ca29)
+![image](https://github.com/user-attachments/assets/fed34035-f51a-4fcd-9a5e-3b106729949e)
 
 </p>
 <br />
 
 <h3 align="center"> Allow Anyone to Create Tickets  </h3>
 <p align="center">
-In order to allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings (Uncheck this box: Require registration and login to create tickets)
+In order to allow anyone to create tickets, go to Admin Panel -> Settings -> User Settings (Uncheck this box: Require registration and login to create tickets). Then click "Save Changes" if this wasn't already saved. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/faddc9df-325c-4842-b111-565e8e0c7e56)
+![image](https://github.com/user-attachments/assets/f2429016-8c5d-4720-9802-ae0f50c268ea)
 
 </p>
 <br />
 
 <h3 align="center"> Configure Agents </h3>
 <p align="center">
-In order to configure Agents (workers), go to Admin Panel -> Agents -> Add New.
+In order to configure Agents (workers), go to Admin Panel -> Agents -> Add New Agent.
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/fa255269-bdf1-4e86-9ce8-8bf4d2488283)
+![image](https://github.com/user-attachments/assets/8298ab6f-446d-4468-9200-5e1d1d340fb8)
 
 </p>
 <br />
 
 <p align="center">
-Name: Jane (Dept: SysAdmins) ; Email: Jane@lognpacific.com
+
+- **Name:** Jane Doe
+- **Email:** Jane@lognpacific.com
+- **Username:** jane 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/2e5250f1-9feb-4a3f-b7b0-9fdf59ba7c01)
+![image](https://github.com/user-attachments/assets/670a03c1-b526-4448-8f63-a021208566c5)
 </p>
 <br />
 
@@ -174,33 +176,51 @@ Click on the Access tab. Then for primary department choose Sysadmins and Suprem
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/c7a763af-b290-42a3-8881-d4e11559089b)
+![image](https://github.com/user-attachments/assets/73773e7c-c8f8-493a-bc8e-a01b68e24661)
 </p>
 <br />
 
 <p align="center">
-Click on the teams tab, then for assigned teams select Online banking. 
+Click on the teams tab, then for assigned teams select Online banking. Then click the "Create" button. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/72656336-6366-410a-bd3e-0b2fb85a0d55)
+![image](https://github.com/user-attachments/assets/e715f423-7904-487f-b060-4f5d387846e6)
 </p>
 <br />
 
 <p align="center">
-Also, add a new agent name: John (Dept: Support). Email: John@lognpacific.com ; Primary department: Support and View Only ; Assign to no team, then add agent.
+Also, to add a new agent name. Go back to Admin Panel -> Agents -> Add New Agent.
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/fce4fff9-66e6-4b30-8057-82b0ef9d42b3)
+![image](https://github.com/user-attachments/assets/8c2f53fe-dd12-43f9-89e1-d4272fc0e932)
 
 </p>
 <br />
 
 <p align="center">
-Set both of their passwords by updating it. (You need to click on each agent before updating password) (They don’t change their password when they login too.)
+(Same steps for creating the first agent)
+
+- **Name:** John Doe
+- **Email:** John@lognpacific.com
+- **Username:** john
+- **Primary department:** Support and View Only
+- **Team:** Select none
+Then click the "Create" button. 
+</p>
+<p>
+
+![image](https://github.com/user-attachments/assets/01961733-bdc8-4f90-8031-0379583fb6f0)
+
+</p>
+<br />
+
+<p align="center">
+Go back to the agents panel. Click on Agent Jane to setup her password. 
+  In order to set both of their passwords, you need to click on each agent (Jane then John) before updating password. (They don’t change their password when they login too.)
 
 </p>
 <p>
