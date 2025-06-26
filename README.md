@@ -49,7 +49,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <p align="center">
   
-Have this ready when you need it. 
+Open this link to have this ready when you need it later.
 - **End Users osTicket URL:** http://localhost/osTicket 
 
 </p>
@@ -97,7 +97,7 @@ To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networki
 
 - **Parent:** Top Level Department
 - **Name:** SysAdmins 
-- **Type:** Private (Internal) [see the question mark bubble for the reasoning, which makes sense for SysAdmins]
+- **Type:** Private (Internal) [see the question mark bubble for the reasoning, which makes sense for SysAdmins since they don't have direct commuication with the End User usually.]
 - **Schedule:** Monday - Friday 8am - 5pm with US Holidays
 
 Leave all the other setting options alone, and then click Create Dept at the bottom of the page.
