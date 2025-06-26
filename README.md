@@ -43,7 +43,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/66e151ed-cdc0-4794-986d-e7705ec3064b)
+![image](https://github.com/user-attachments/assets/29053156-5908-4f52-9552-f422866984d8)
 </p>
 <br />
 
@@ -55,7 +55,7 @@ Have this ready when you need it.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/4d165377-b32e-4e75-81ca-793b6ab74bd3)
+![image](https://github.com/user-attachments/assets/d3d7d0df-56b0-4dd7-9073-cfda28eefb42)
 </p>
 <br />
 
@@ -66,7 +66,9 @@ In order to configure roles (for grouping permissions), go to Admin Panel -> Age
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/edb98175-a779-4adc-a83e-de1692e6b481)
+![image](https://github.com/user-attachments/assets/06b83ca2-d7af-4c71-b913-1ec841ab5487)
+![image](https://github.com/user-attachments/assets/97a1254c-e69a-487a-a718-34c9c0418ce4)
+
 </p>
 <br />
 
@@ -76,18 +78,18 @@ Then click on Permissions, then check everything. (In Tickets, Tasks, and Knowle
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/33985605-7d8b-4254-9942-0bec6a4a66f8)
+![image](https://github.com/user-attachments/assets/fd579eb3-ea19-448a-8469-9a58f9a66c90)
 </p>
 <br />
 
 <h3 align="center"> Configure Departments </h3>
 <p align="center">
-To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking), go to Admin Panel -> Agents -> Departments (Then click Add New Department, and type SysAdmins)
+To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking), go to Admin Panel (You are already here from the previous steps) -> Agents -> Departments (Then click Add New Department, and type SysAdmins)
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/46775c18-6a41-436c-9c61-293776705d19)
+![image](https://github.com/user-attachments/assets/cb6f5732-1b0f-4fcb-852f-95e3421ad74c)
 </p>
 <br />
 
