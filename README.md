@@ -84,7 +84,7 @@ Then click on Permissions, then check everything. (In Tickets, Tasks, and Knowle
 
 <h3 align="center"> Configure Departments </h3>
 <p align="center">
-To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking), go to Admin Panel (You are already here from the previous steps) -> Agents -> Departments (Then click Add New Department, and type SysAdmins)
+To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking), go to Admin Panel (You are already here from the previous steps) -> Agents -> Departments (Then click Add New Department)
 
 </p>
 <p>
@@ -94,12 +94,18 @@ To configure departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networki
 <br />
 
 <p align="center">
-Choose the Top Level Department for parent and name it SysAdmin, then click Create Dept at the bottom of the page.
+
+- **Parent:** Top Level Department
+- **Name:** SysAdmins 
+- **Type:** Private (Internal) [see the question mark bubble for the reasoning, which makes sense for SysAdmins]
+- **Schedule:** Monday - Friday 8am - 5pm with US Holidays
+
+Then click Create Dept at the bottom of the page.
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/32e4681f-a9f2-46b3-bb81-46b595106aca)
+![image](https://github.com/user-attachments/assets/bea0d3cf-264d-4e36-9cb9-79f7f03e9202)
 
 </p>
 <br />
