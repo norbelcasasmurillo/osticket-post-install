@@ -260,7 +260,7 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 
 - **Name:** Karen
 - **Email:** karen@lognpacific.com
-
+- Then click "Add User"
 
 </p>
 <p>
@@ -271,8 +271,10 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 
 <p align="center">
 Click the User tab again, and click "Add User"
+
 - **Name:** Ken
 - **Email:** ken@lognpacific.com
+- Then click "Add User"
 
 </p>
 <p>
@@ -289,7 +291,9 @@ In order to configure SLA, go to Admin Panel -> Manage -> SLA.
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/e265e577-bde3-4227-8d2e-3ec4552f55dd)
+![image](https://github.com/user-attachments/assets/18e017a5-15ee-4fe6-b946-a9fcea9657ff)
+
+![image](https://github.com/user-attachments/assets/1c12a1ae-a345-47bb-930c-3d71ddd25081)
 
 </p>
 <br />
