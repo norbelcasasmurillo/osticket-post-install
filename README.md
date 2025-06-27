@@ -387,12 +387,17 @@ Add another Help Topic by clicking the Help Topic tab, then click on "Add New He
 <br />
 
 <p align="center">
-Add another Help Topic. Set it to Equipment Request (General Inquiry).
-
+Add another Help Topic by clicking the Help Topic tab, then click on "Add New Help Topic" and set it to:
+  
+- **Topic:** Equipment Request 
+- **Parent Topic:** General Inquiry
+- Then click "Add Topic
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/7f656b8b-497e-422f-bb9e-3c3b114a4b8e)
+![image](https://github.com/user-attachments/assets/3da45c7a-5318-479a-98a1-b73ab2d30ec7)
+
+![image](https://github.com/user-attachments/assets/f4b021c7-c672-4489-8ec9-c980a4e4eaba)
 
 </p>
 <br />
