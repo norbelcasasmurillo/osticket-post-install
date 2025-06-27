@@ -219,8 +219,7 @@ Also, to add a new agent name. Go back to Admin Panel -> Agents -> Add New Agent
 <br />
 
 <p align="center">
-Go back to the agents panel. Click on Agent Jane to setup her password. Then click on "Setpassword". 
-  In order to set both of their passwords, you need to click on each agent (Jane then John) before updating password. (They don’t change their password when they login too.)
+Go back to the agents panel. Click on Agent Jane to setup her password. Then click on "Set Password". 
 
 </p>
 <p>
@@ -260,25 +259,26 @@ Next, in order to configure Users (customers), go to Agent Panel -> Users -> Add
 <p align="center">
 
 - **Name:** Karen
-- **Email:** karen@lognpacfic.com
+- **Email:** karen@lognpacific.com
 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/72f0e0ea-c821-46ab-becd-c2d1405fcfc5)
+![image](https://github.com/user-attachments/assets/de927a3e-7a4f-4591-a263-7c7b4c0c0a87)
 </p>
 <br />
 
 <p align="center">
-
+Click the User tab again, and click "Add User"
 - **Name:** Ken
 - **Email:** ken@lognpacific.com
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/ae3b84f8-c575-4c72-b271-1fa61b0af397)
+![image](https://github.com/user-attachments/assets/f7806475-f6a4-4062-bf68-684b6f261d15)
+![image](https://github.com/user-attachments/assets/cbabb4bc-d285-4e6a-a736-45dca7feb24b)
 </p>
 <br />
 
