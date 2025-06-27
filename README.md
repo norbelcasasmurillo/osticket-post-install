@@ -286,79 +286,102 @@ Click the User tab again, and click "Add User"
 
 <h3 align="center"> Configure Service Level Agreement (SLA) </h3>
 <p align="center">
-In order to configure SLA, go to Admin Panel -> Manage -> SLA.
+In order to configure SLA, go to Admin Panel -> Manage -> SLA. Then click Add New SLA.
 
 </p>
 <p>
 
 ![image](https://github.com/user-attachments/assets/18e017a5-15ee-4fe6-b946-a9fcea9657ff)
 
-![image](https://github.com/user-attachments/assets/1c12a1ae-a345-47bb-930c-3d71ddd25081)
+![image](https://github.com/user-attachments/assets/03c99db1-4620-40bf-beb7-ceea6c26191d)
 
 </p>
 <br />
 
 <p align="center">
-Then click Add New SLA. And put it as Sev-A (Grace Period: 1 hour, Schedule: 24/7).
 
+- **Name:** Sev-A
+- **Grace Period:** 1 hour
+- **Schedule:** 24/7
+- Then click "Add Plan"
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/16ec9780-6bf6-408b-aecd-1e3d362ffa60)
+![image](https://github.com/user-attachments/assets/bac237bc-9529-41bd-bacf-af5eee674ed9)
 </p>
 <br />
 
 <p align="center">
-Then, click on Add New SLA again. This time put Sev-B (Grace Period: 4 hours, Schedule: 24/7).
+Then, click on Add New SLA again. This time put: 
+
+- **Name:** Sev-B 
+- **Grace Period:** 4 hours
+- **Schedule:** 24/7
+- Then click "Add Plan"
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/6bfaed1f-ee1b-419e-8899-3ad23d6f8195)
+![image](https://github.com/user-attachments/assets/613a0f54-e6e8-40f2-a509-b616cbc52292)
 
 </p>
 <br />
 
 <p align="center">
-Then also add this one too. Sev-C (Grace Period: 8 hours, Business Hours).
+Then, click on Add New SLA again. This time put: 
+
+- **Name:** Sev-C 
+- **Grace Period:** 8 hours
+- **Schedule:** Business Hours (Monday - Friday 8am - 5pm with US Holidays)
+- Then click "Add Plan"
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/25d3c7fc-a515-4e47-a33e-c9d200ebd479)
+![image](https://github.com/user-attachments/assets/eed708cf-f4e3-4da1-8cdd-f9d55afb1ba7)
 
 </p>
 <br />
 
 <h3 align="center"> Configure Help Topics </h3>
 <p align="center">
-Next, in order to configure Help Topics (For when users create a ticket), go to Admin Panel -> Manage -> Help Topics (Then click Add New Help Topics).
+Next, in order to configure Help Topics (For when users create a ticket), go to Admin Panel (you are already there) -> Manage -> Help Topics. Then click Add New Help Topic. 
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/f840e070-6545-4082-bfec-381baca47218)
+![image](https://github.com/user-attachments/assets/a00b8506-abe4-4e91-b714-67be502071d8)
 </p>
 <br />
 
 <p align="center">
-Set it to Business Critical Outage (Report a Problem), then add.
+Set it to:
+
+- **Topic:** Business Critical Outage
+- **Parent Topic:** Report a Problem
+- Then click "Add Topic"
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/40e82717-1098-4207-8f00-f6504c86424a)
+![image](https://github.com/user-attachments/assets/ef25b99a-13e7-4302-ad31-92f531f08fde)
 
 </p>
 <br />
 
 <p align="center">
-Add another Help Topic and sset it to Personal Computer Issues (Report a Problem).
+Add another Help Topic by clicking the Help Topic tab, then click on "Add New Help Topic" and set it to:
+  
+- **Topic:** Personal Computer Issues
+- **Parent Topic:** Report a Problem
+- Then click "Add Topic"
 
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/aaf49d75-f0a4-4fb8-85dc-44669b24d937)
+![image](https://github.com/user-attachments/assets/9077ebf9-87ef-4d49-8ce3-415ba61c6015)
+
+![image](https://github.com/user-attachments/assets/fdbdc61f-abfc-48e4-ba6c-565cc18c7f22)
 
 </p>
 <br />
