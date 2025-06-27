@@ -403,12 +403,17 @@ Add another Help Topic by clicking the Help Topic tab, then click on "Add New He
 <br />
 
 <p align="center">
-Add another Help Topic. Set it to Password Reset (Report a Problem).
-
+Add another Help Topic by clicking the Help Topic tab, then click on "Add New Help Topic" and set it to:
+  
+- **Topic:** Password Reset 
+- **Parent Topic:** Report a Problem
+- Then click "Add Topic
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/9c765aa9-3e92-417b-8280-5defa013244e)
+![image](https://github.com/user-attachments/assets/e787a11b-e73d-4df2-9428-0e900ee0f07e)
+
+![image](https://github.com/user-attachments/assets/3ec5cb25-7b58-40ab-acb8-8f173ce6a227)
 
 </p>
 <br />
