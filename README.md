@@ -419,12 +419,17 @@ Add another Help Topic by clicking the Help Topic tab, then click on "Add New He
 <br />
 
 <p align="center">
-Add another Help Topic. Set it to Other (General Inquiry)
-
+Add another Help Topic by clicking the Help Topic tab, then click on "Add New Help Topic" and set it to:
+  
+- **Topic:** Other 
+- **Parent Topic:** General Inquiry
+- Then click "Add Topic
 </p>
 <p>
 
-![image](https://github.com/user-attachments/assets/3dc04ea1-1a3c-4582-9d59-4ccb19a155b8)
+![image](https://github.com/user-attachments/assets/4c45d4a9-2b50-419e-a9f8-9d59503fad8b)
+
+![image](https://github.com/user-attachments/assets/954dfda4-251b-4e21-b7bc-e831576486b4)
 
 </p>
 <br />
