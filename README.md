@@ -181,7 +181,7 @@ Click on the Access tab. Then for primary department choose Sysadmins and Suprem
 <br />
 
 <p align="center">
-Click on the teams tab, then for assigned teams select Online banking. Then click the "Create" button. 
+Click on the teams tab, then for assigned teams select "Online banking", then "Add". Then click the "Create" button. 
 
 </p>
 <p>
